@@ -1,0 +1,4 @@
+npm install -g @angular/cli
+ng new <app-name>
+npm install
+ng server ==> start the localhost:4200
